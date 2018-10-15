@@ -12,6 +12,7 @@
     "async-mqtt": "^2.0.0",
     "config": "^2.0.1",
     "debug": "^2.6.3",
+    "hoek": "^5.0.4",
     "jsonwebtoken": "^8.3.0",
     "koa": "^2.2.0",
     "koa-bodyparser": "^3.2.0",
