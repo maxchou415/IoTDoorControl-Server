@@ -3,7 +3,7 @@ The Server for IoTDoorControl Project.
 
 # Introduction
 1. What's the main problem I would like to resolve? <br />
-A: Most of apartment in Taiwan has intercom for communicate with someone who at Lobby. They do go with remote door open function; A button located on intercom. But They can not trigger the function by internet, so you can not open the door everywhere, even not at home.
+A: Most of apartment in Taiwan has intercom for communicate with someone who at the Lobby. They do go with remote door open function; A button located on intercom. But They can not trigger the function by internet, so you can not open the door everywhere, even not at home.
 
 2. What technology I have been used on this project? <br />
 ```
